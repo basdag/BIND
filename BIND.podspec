@@ -29,6 +29,6 @@ Data Binding and MVVM for iOS.
   s.platform = :ios, "7.0"
 
   s.dependency 'libextobjc'
-  s.dependency 'NODE_'
+  s.dependency 'NODE_', '~> 0.1.2'
 
 end
